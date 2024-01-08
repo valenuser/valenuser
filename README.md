@@ -3,8 +3,8 @@
 </div>
 
 ### Hey, Valentin reporting 👋🏽</h1>
-### I am a junior web programmer  💻  eager to grow in the world of programming   🔝
-### Here you can see all my projects and anyone who wants to improve or give ideas is welcome 😋
+### ✅ I am a junior web programmer  💻  eager to grow in the world of programming   🔝
+### ✅ Here you can see all my projects and anyone who wants to improve or give ideas is welcome 😋
 
 
 <br>
