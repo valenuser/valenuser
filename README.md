@@ -22,11 +22,11 @@
 ### Contact 📥
 
 <br>
-<div>
-  
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)  <p>vpavonlopez@gmail.com</p>
-  
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,instagram" />
+  </a>
+</p>
 
 <br>
 
