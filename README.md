@@ -9,7 +9,7 @@
 
 ### Languages 🛠️
 
-<div style='display:flex;flex-wrap:wrap'>
+<div style='display:flex,flex-wrap:wrap'>
       <p style='display:flex,justify-content:space-around'>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python,flask" />
