@@ -9,8 +9,7 @@
 
 ### Languages 🛠️
 
-<div style='display:flex,flex-wrap:wrap'>
-  <div>
+  <div style='display:flex'>
         <p style='display:flex,justify-content:space-around'>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=python" />
@@ -18,5 +17,3 @@
         </p>
       <h1>Python</h1>
   </div>
-
-</div>
