@@ -10,15 +10,15 @@
 ### Languages 🛠️
 
 <div>
-  <div>
-      <p align="center">
+  <div style='display:flex;flex-wrap:wrap'>
+      <p>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python" />
         </a>
       </p>
   </div>
   <div>
-        <p align="center">
+        <p>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=flask" />
           </a>
