@@ -7,13 +7,11 @@
 
 <hr style='background:white'>
 
-### Languages 🛠️
+### Languages and technologies 🛠️
 
-  <div style='display:flex'>
-        <p style='display:flex,justify-content:space-around'>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python" />
-          </a>
-        </p>
-      <h1>Python</h1>
-  </div>
+  <p style='display:flex,justify-content:space-around'>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,flask,mysql,javascript,nodejs,vue,css,sass,tailwind,php" />
+    </a>
+  </p>
+
