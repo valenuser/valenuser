@@ -9,7 +9,7 @@
 
 ### Languages 🛠️
 
-<div style='display:flex;flex-wrap:wrap'>
+<div style='display:flex;flex-wrap:wrap; flex-direction:row'>
   <div>
       <p>
         <a href="https://skillicons.dev">
