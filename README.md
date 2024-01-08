@@ -19,7 +19,7 @@
 
   <p style='display:flex,justify-content:space-around'>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,sass,tailwind,javascript,nodejs,vue,php,linux,git,nginx,squid,apache" />
+        <img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,sass,tailwind,javascript,nodejs,vue,php,linux,git,nginx" />
     </a>
   </p>
 
