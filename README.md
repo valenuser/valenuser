@@ -3,3 +3,4 @@
 </div>
 
 ### Hey, Valentin reporting 👋🏽</h1>
+### I am a junior web programmer 💻  eager to grow in the world of programming.
