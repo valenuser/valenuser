@@ -13,9 +13,16 @@
   <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,flask,javascript,nodejs,vue" />
+          <img src="https://skillicons.dev/icons?i=python" />
         </a>
       </p>
   </div>
-  
+  <div>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=flask" />
+          </a>
+        </p>
+  </div>
+
 </div>
