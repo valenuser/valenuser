@@ -10,19 +10,14 @@
 ### Languages 🛠️
 
 <div style='display:flex;flex-wrap:wrap; flex-direction:row'>
-  <div>
       <p>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python" />
         </a>
       </p>
-  </div>
-  <div>
-        <p>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=flask" />
-          </a>
-        </p>
-  </div>
-
+      <p>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flask" />
+        </a>
+      </p>
 </div>
