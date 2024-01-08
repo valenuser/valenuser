@@ -9,15 +9,11 @@
 
 ### Languages 🛠️
 
-<div style='display:flex;flex-wrap:wrap; flex-direction:row'>
+<div style='display:flex;flex-wrap:wrap; justify-content:space-around'>
       <p>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python" />
+          <img src="https://skillicons.dev/icons?i=python,flask" />
         </a>
       </p>
-      <p>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flask" />
-        </a>
-      </p>
+
 </div>
