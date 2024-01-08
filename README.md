@@ -1,4 +1,4 @@
-<div style='display:flex;align-items:center'>
+<div style='display:flex;align-items:center;width:100%'>
   <h1 style=''display:flex;align-items:center'>Hi, my name is Valentin 👋🏽</h1>
 </div>
 <div style='display:flex;align-items:center'>
