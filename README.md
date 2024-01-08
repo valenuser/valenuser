@@ -5,7 +5,7 @@
 ### Hey, Valentin reporting 👋🏽</h1>
 ### I am a junior web programmer  💻  eager to grow in the world of programming
 
-<img src='https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif' style='width:100%'/>
+<img src='https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif' style='width:2000px'/>
 
 ### Languages and technologies 🛠️
 
