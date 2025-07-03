@@ -14,7 +14,7 @@
 ### 🛠️  Languages and technologies 
   <p style='display:flex,justify-content:space-around'>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,flask,mysql,mongodb,postgres,html,css,sass,tailwind,javascript,nodejs,vue,linux,git,java,spring" />
+        <img src="https://skillicons.dev/icons?i=python,flask,mysql,mongodb,postgres,html,css,sass,tailwind,javascript,nodejs,vue,linux,git,java,spring,cs" />
     </a>
   </p>
 
