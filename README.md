@@ -10,8 +10,8 @@
 
 <br>
 <img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif'>
-### 🛠️  Languages and technologies 
 
+### 🛠️  Languages and technologies 
   <p style='display:flex,justify-content:space-around'>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,flask,mysql,mongodb,postgres,html,css,sass,tailwind,javascript,nodejs,vue,linux,git,java,spring" />
